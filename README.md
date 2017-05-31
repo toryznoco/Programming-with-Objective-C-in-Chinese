@@ -1,13 +1,13 @@
 # Programming-with-Objective-C-in-Chinese
 
-This is a Chinese version of Programming with Objective-C that is translated by Innovation Studio iOS Group in USETC. 苹果开发者平台Objective-C文档的中文翻译版本，翻译者来自电子科技大学创联工作室iOS组。
+This is a Chinese version of Programming with Objective-C that is translated by Innovation Studio iOS Group in USETC. 苹果开发者平台Objective-C文档的中文翻译版本。
 ##贡献者:
 - Chibaibuki XiangfuGoh
 - Caoxian HaoxianChan
 - Bomlsy SiyuLiao 
 - tinoryj YanjingRen
 - yaoyai JianyunWu
-
+- toryznoco
 
 ##测试版本V0.1
 本项目欢迎提出意见，如对任何章节有意见或疑问请发送邮件至chibaibuki@outlook.com，我们会在两个工日内对问题进行回复并可能修改相应章节。
@@ -24,7 +24,7 @@ This is a Chinese version of Programming with Objective-C that is translated by 
 |Working-with-Protocols-协议的使用|tinoryj|
 |Values-and-Collections-值与集合类型|tinoryj|
 |Working-with-Blocks-使用块|Chibaibuki|
-|Dealing-with-Errors-错误处理|Chibaibuki|
+|Dealing-with-Errors-错误处理|toryznoco|
 |Conventions-命名规则|Bomlsy|
 
 ##流程
